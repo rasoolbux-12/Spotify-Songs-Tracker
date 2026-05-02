@@ -79,10 +79,3 @@ Example columns:
 This project was created as part of my **Third Semester DSA Course Project** to demonstrate the use of fundamental data structures in a real-world scenario.
 
 ---
-
-This README includes:
-- Clean headers with emojis for visual appeal
-- Formatted tables for CSV example and data structures
-- Code blocks for commands
-- Proper section hierarchy
-- All original content preserved and organized
