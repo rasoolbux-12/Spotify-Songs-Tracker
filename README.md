@@ -80,24 +80,6 @@ This project was created as part of my **Third Semester DSA Course Project** to 
 
 ---
 
-## 📦 Getting Started
-
-### Prerequisites
-- Java JDK 8 or higher
-- CSV file named `Most Streamed Spotify Songs 2024.csv` in the project directory
-
-### Running the Project
-```bash
-javac SpotifyTracker.java
-java SpotifyTracker
-
-📝 License
-This project is for educational purposes as part of academic coursework.
-
-👨‍💻 Author
-Course Project - Third Semester DSA
-
-
 This README includes:
 - Clean headers with emojis for visual appeal
 - Formatted tables for CSV example and data structures
